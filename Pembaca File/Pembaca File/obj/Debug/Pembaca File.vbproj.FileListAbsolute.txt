@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\bin\Debug\Pembaca File.exe.config
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\bin\Debug\Pembaca File.exe
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\bin\Debug\Pembaca File.pdb
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\bin\Debug\Pembaca File.xml
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca File.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca_File.Form1.resources
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca_File.Resources.resources
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca File.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca File.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca File.exe
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca File.xml
+C:\Users\Lenovo\Documents\Unsia\Semester 1\Pemrograman Visual\UTS\Pembaca File\Pembaca File\obj\Debug\Pembaca File.pdb
